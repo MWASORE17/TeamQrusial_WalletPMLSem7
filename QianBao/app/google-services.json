@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "916934185402",
+    "firebase_url": "https://enedy-4ever.firebaseio.com",
+    "project_id": "enedy-4ever",
+    "storage_bucket": "enedy-4ever.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916934185402:android:77ef6234649fff4c",
+        "android_client_info": {
+          "package_name": "com.wenlong.qianbao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916934185402-gsh802mnn7ol4aar987s9h6o2cnbvj1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAigOK2THCThUmn1Xh0xLIy88wJF__IAzo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

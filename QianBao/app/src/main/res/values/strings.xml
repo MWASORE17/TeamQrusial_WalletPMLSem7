@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Wallet</string>
+    <string-array name="category_expense">
+        <item>Others</item>
+        <item>Foods and Drinks</item>
+        <item>Traveling</item>
+        <item>Shopping</item>
+        <item>Transport</item>
+    </string-array>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">First</string>
+    <string name="slide_1_desc">First Slide</string>
+
+    <string name="slide_2_title">Second</string>
+    <string name="slide_2_desc">Second Slide</string>
+
+    <string name="slide_3_title">Third</string>
+    <string name="slide_3_desc">Third Slide</string>
+
+    <string name="slide_4_title">Foutrh</string>
+    <string name="slide_4_desc">Fourth Slide</string>
+    <string name="wallet">Wallet</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login1">Dont Have Account? Register Now...</string>
+    <string name="register">Register</string>
+    <string name="register1">Already Have Account? Login Now...</string>
+    <string name="retype">Re-type Password</string>
+    <string name="description">Description</string>
+    <string name="value">Value</string>
+
+</resources>
